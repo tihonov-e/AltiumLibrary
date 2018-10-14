@@ -3,7 +3,7 @@
 процесса миграции из других систем проектирования печатных плат. Данные библиотеки используются автором и периодически обновляются по мере добавления
 новых компонентов. 
 
-![alt text](https://github.com/Nordic-Energy/AltiumLibrary/blob/master/AltiumTemplate/main.jpg)
+![alt text](https://github.com/Nordic-Energy/AltiumLibrary/blob/master/main.jpg)
 
 # Структура библиотек
 * Analog - операционные усилители, компараторы, дискретная логика, аттенюаторы и прочее
