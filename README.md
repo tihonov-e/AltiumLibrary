@@ -26,7 +26,8 @@
     * Transistor
     * Diode
     * Connector
-    * Oscilator, crystal
+    * Oscilator
+    * Optoisolator
     * Resistor
     * Capacitor
 
