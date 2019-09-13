@@ -6,3 +6,9 @@ LibraryComponents/debug.log
 
 # Игнорирование скомпилированных библиотек
 *.IntLib
+
+# Игнорирование папки с превью pcb
+Template/PCBTemplate/__Previews
+
+# Игнорирование всех превью pcb
+*.PcbDocPreview
