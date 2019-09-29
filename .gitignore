@@ -1,4 +1,4 @@
-# Игнорирование папки с временными копиями
+﻿# Игнорирование папки с временными копиями
 LibraryComponents/History/
 
 # Игнорирование файла с логами
@@ -8,7 +8,7 @@ LibraryComponents/debug.log
 *.IntLib
 
 # Игнорирование папки с превью pcb
-Template/PCBTemplate/__Previews
+Template/PCBTemplate/__Previews/
 
 # Игнорирование всех превью pcb
 *.PcbDocPreview
